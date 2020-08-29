@@ -51,8 +51,12 @@ Training Data:
 Training data was created with the following input parameters:
 1. Historical weather (mintemp, maxtemp, precipitation, snow, snow depth, cold stress events, heat stress events)
 2. Satellite crop indices (mean and quartile of collective crop values) including NDVI, NDRE, RECI, CCCI from 5 images from the past 4 months from when queried (usually summer)
-3. Soil Stats collected from SoilInfo API
-4. 
+3. Soil Stats collected from SoilInfo API (Deprecated)
+
+Use the functions in CollectTraining.py, and see the google doc documentation for more details to building training data.
+The training data generally came from NASS Cropland Data Layer in order to find exact crop coordinates.
+Images were collected from Sentinel-2 satellite imagery using the SentinelSat Copernicus
+
 
 The output ground truth label was gathered using NASS QuickStats which has labeled bu/acre crop yield by county in the USA. 
 Training data is divided by specific crop. Currently there are 5 directories, however only 2 contain substantial training data, corn and wheat. Each crop directory contains test, train, and validation. train is currently the only non-empty folder. 
