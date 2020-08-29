@@ -1,0 +1,46 @@
+# folders
+SentImages_Training
+Bundle2Test
+TestOutput
+CropScapeRaster
+SampleImages
+__pycache__
+sentdowns2
+sentdowns
+
+
+# Crop Training Data
+SugarCane
+Avocados
+Peppers
+Corn
+Wheat
+Corn
+
+#test python files
+AltAPItest.py
+Bundle1GenerationTest.py
+Bundle1Generatorv01.py
+Bundle2GeneratorTest.py
+CropIndicesSampler.py
+CropIndicesSamplerrun.py
+CropIndicesTest.py
+CropIndicesv00.py
+CropIndicesv01.py
+CropYieldAPI.py
+CropScapExtractionv00.py
+CSVtoDicttoFile.py
+customerQuery.py
+downloadSat.py
+HistoricalWeatherTest.py
+QualityCheck.py
+RandomTest.py
+RasterAPIv00.py
+trash.py
+MLTest.py
+CropYieldPDeprecated.py
+sentdowns/sentdowns/c2dcdb67-9e50-4875-b8dc-7fd45c0d7c9f/b04.jp2
+sentdowns/rtest/2020-08-04c2dcdb67-9e50-4875-b8dc-7fd45c0d7c9fB04.jp2
+sentdowns/sentdownsc2dcdb67-9e50-4875-b8dc-7fd45c0d7c9fb04.jp2
+sentdowns/rtest/2020-08-04c2dcdb67-9e50-4875-b8dc-7fd45c0d7c9fB08.jp2
+sentdowns/test/2020-08-04c2dcdb67-9e50-4875-b8dc-7fd45c0d7c9fB08.jp2

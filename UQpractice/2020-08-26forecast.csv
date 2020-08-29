@@ -1,0 +1,15 @@
+['Weather Forecast', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday', 'Monday', 'Units']
+Morning	,32.96	,18.9	,20.83	,22.07	,21.07	,22.04	,22.99	,celsius
+Day	,32.96	,34.83	,38.2	,38.15	,37.04	,38.13	,39.75	,celsius
+Evening	,28.54	,27.85	,30.11	,28.56	,28.71	,30.36	,31.08	,celsius
+Night	,19.38	,20.62	,22.19	,21.72	,21.88	,22.4	,23.4	,celsius
+Minimum Temperature	,19.38	,18.9	,20.83	,21.72	,21.07	,22.04	,22.99	,celsius
+Max Temperature	,34.67	,36.51	,39.3	,39.12	,38.34	,39.54	,40.87	,celsius
+Humidity	,31	,16	,13	,11	,12	,11	,8	,%
+Dew Point	,13.59	,5.54	,5.17	,3.59	,3.36	,2.88	,0.45	,celsius
+UVI	,8.58	,8.73	,8.26	,8.66	,8.04	,7.65	,7.85	,
+Cloud Coverage(%)	,1	,0	,0	,0	,0	,0	,0	,%
+Rain	,0	,0	,0	,0	,0	,0	,0	,mm
+Wind Speed	,2.91	,2.95	,2.5	,2.92	,3.29	,3.38	,3.72	,meter/sec
+Wind Degrees	,287	,302	,301	,308	,311	,304	,307	,degrees
+Description	,clear sky	,clear sky	,clear sky	,clear sky	,clear sky	,clear sky	,clear sky	,
